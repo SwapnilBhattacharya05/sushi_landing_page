@@ -1,1 +1,1 @@
-Sushiman
+Sushiman - static website
