@@ -1,2 +1,3 @@
 Sushiman - static website
-html, css, js
+html, css, js,
+aos for animation
